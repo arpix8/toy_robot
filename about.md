@@ -12,7 +12,7 @@ Development info
 Usage
 ------------
 
-Open .exe for using **Toy Robot Simulator**.
+Run *ToyRobotSimulator.ConsoleApp.exe* for using **Toy Robot Simulator**.
 
 Insert your commands directly in the console for control the robot (refer to [README](README.md) for the rules).
 
