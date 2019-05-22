@@ -1,0 +1,7 @@
+D:\Work\Projects\_Test Projects\ToyRobotSimulator\ToyRobotSimulator.ConsoleApp\bin\Debug\ToyRobotSimulator.ConsoleApp.exe.config
+D:\Work\Projects\_Test Projects\ToyRobotSimulator\ToyRobotSimulator.ConsoleApp\bin\Debug\ToyRobotSimulator.ConsoleApp.exe
+D:\Work\Projects\_Test Projects\ToyRobotSimulator\ToyRobotSimulator.ConsoleApp\bin\Debug\ToyRobotSimulator.ConsoleApp.pdb
+D:\Work\Projects\_Test Projects\ToyRobotSimulator\ToyRobotSimulator.ConsoleApp\obj\Debug\ToyRobotSimulator.ConsoleApp.csprojAssemblyReference.cache
+D:\Work\Projects\_Test Projects\ToyRobotSimulator\ToyRobotSimulator.ConsoleApp\obj\Debug\ToyRobotSimulator.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Work\Projects\_Test Projects\ToyRobotSimulator\ToyRobotSimulator.ConsoleApp\obj\Debug\ToyRobotSimulator.ConsoleApp.exe
+D:\Work\Projects\_Test Projects\ToyRobotSimulator\ToyRobotSimulator.ConsoleApp\obj\Debug\ToyRobotSimulator.ConsoleApp.pdb
