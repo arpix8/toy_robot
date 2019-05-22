@@ -21,12 +21,12 @@ Write *QUIT* to exit.
 Code
 ------------
 
-The source code of the application is in the folder *Solutions*.
+The source code of the application is in the folder **Source**.
 
 Test
 ------------
 
-Open the solution for view the *Unit Test Project* (*ToyRobotSimulator.Tests*).
+Open the solution for view the **Unit Test Project** (*ToyRobotSimulator.Tests*).
 
 Run the test methods used during the development to test the code.
 
