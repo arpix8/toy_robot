@@ -32,3 +32,7 @@ Run the test methods used during the development to test the code.
 
 Add custom test methods to test the application as you prefer.
 
+Contact
+------------
+
+For any problems or suggestion please contact me.
