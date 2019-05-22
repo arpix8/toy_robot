@@ -21,7 +21,7 @@ Write *QUIT* to exit.
 Code
 ------------
 
-The source code of the application is in the folder **Source**.
+The source code of the application is in the folder **[Source](Source)**.
 
 Test
 ------------
