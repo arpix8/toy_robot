@@ -1,7 +1,7 @@
 About
 ===================
 
-Development info
+###Development info
 ------------
 
 - Project type: Console Application
