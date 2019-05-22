@@ -5,7 +5,7 @@ Development info
 ------------
 
 - Project type: Console Application
-- Target: .NET Framework 7.0
+- Target: .NET Framework 4.7
 - Language: C#
 - IDE: Microsoft Visual Studio 2017 
 
