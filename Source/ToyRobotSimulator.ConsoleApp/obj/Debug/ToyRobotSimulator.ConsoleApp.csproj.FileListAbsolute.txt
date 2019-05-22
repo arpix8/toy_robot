@@ -1,7 +1,0 @@
-C:\Users\fgiamp01\Desktop\New folder\ToyRobotSimulator.ConsoleApp\bin\Debug\ToyRobotSimulator.ConsoleApp.exe.config
-C:\Users\fgiamp01\Desktop\New folder\ToyRobotSimulator.ConsoleApp\bin\Debug\ToyRobotSimulator.ConsoleApp.exe
-C:\Users\fgiamp01\Desktop\New folder\ToyRobotSimulator.ConsoleApp\bin\Debug\ToyRobotSimulator.ConsoleApp.pdb
-C:\Users\fgiamp01\Desktop\New folder\ToyRobotSimulator.ConsoleApp\obj\Debug\ToyRobotSimulator.ConsoleApp.csprojAssemblyReference.cache
-C:\Users\fgiamp01\Desktop\New folder\ToyRobotSimulator.ConsoleApp\obj\Debug\ToyRobotSimulator.ConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\fgiamp01\Desktop\New folder\ToyRobotSimulator.ConsoleApp\obj\Debug\ToyRobotSimulator.ConsoleApp.exe
-C:\Users\fgiamp01\Desktop\New folder\ToyRobotSimulator.ConsoleApp\obj\Debug\ToyRobotSimulator.ConsoleApp.pdb
