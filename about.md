@@ -4,10 +4,10 @@ About
 Development info
 ------------
 
-*Project type: Console Application
-*Target: .NET Framework 7.0
-*Language: C#
-*IDE: Microsoft Visual Studio 2017 
+- Project type: Console Application
+- Target: .NET Framework 7.0
+- Language: C#
+- IDE: Microsoft Visual Studio 2017 
 
 Usage
 ------------
